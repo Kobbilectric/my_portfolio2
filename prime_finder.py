@@ -7,7 +7,7 @@ def find_prime(number):
     if is_prime:
         print("This is a prime number")
     else:
-        print("This is a not prime number")
+        print("This is not prime number")
 
 number = int(input('Please enter a number: '))
 find_prime(number)
